@@ -12,21 +12,14 @@ rand10.txt was used for testing. You can use it for testing, too if you'd like.
 
 
 Functions: 
-
 catalog - get a list of files on the server. 
-
 download <source file name> <destination filename> - download a file
-
 upload <source file name> <destination filename>
-
 spwd - get the linux pwd command from the server
-
 bye - disconnect from server
 
 
-Known issues: 
-
 This is just a homework assignment and not meant for actual use, so issues likely won't get fixed. 
-
+Known issues: 
 Uploads/ downloads limited to buffer size. 
 Control flow not as sweet and simple and compartmentalized as it should be. 

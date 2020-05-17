@@ -20,6 +20,7 @@ bye - disconnect from server
 
 
 This is just a homework assignment and not meant for actual use, so issues likely won't get fixed. 
+
 Known issues: 
 Uploads/ downloads limited to buffer size. 
 Control flow not as sweet and simple and compartmentalized as it should be. 
